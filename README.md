@@ -50,5 +50,5 @@
  
 #### :pencil2: Study log :pencil2:
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongseopK&layout=compact)
+![yongseopK's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongseopK&show_icons=true&theme=dark)
 </div>
