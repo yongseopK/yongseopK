@@ -23,19 +23,18 @@
 
 
 
-
-
+ <br/>
+ <br/>
 
 #### :toolbox: DEV TOOLS :toolbox:
-  
- <br/>
  
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
-#### :ghost: Version Manegement :ghost:
-  
  <br/>
+ <br/>
+
+#### :ghost: Version Manegement :ghost:
  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  
@@ -43,8 +42,6 @@
    <br/>
  
 #### :pencil2: Study log :pencil2:
- 
-  <br/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongseopK&layout=compact)
 </div>
