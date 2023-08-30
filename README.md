@@ -54,5 +54,4 @@
   
 ![yongseopK's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongseopK&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongseopK&layout=compact)
-![yongseopK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yongseopK)
 </div>
