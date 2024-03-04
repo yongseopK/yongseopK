@@ -12,7 +12,7 @@
   
  <br/>
 
-<img src="https://img.shields.io/badge/Spring-6DB340?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB340?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-012052?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=black"> <br/>
