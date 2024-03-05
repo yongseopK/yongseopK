@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-4287f5?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Aws-FF9B00?style=for-the-badge&logo=Amazon&logoColor=white">
 
 
 
