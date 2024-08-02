@@ -15,10 +15,9 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB340?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-012052?style=for-the-badge&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"> 
 <img src="https://img.shields.io/badge/Aws-FF9B00?style=for-the-badge&logo=Amazon&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-4287f5?style=for-the-badge&logo=Flutter&logoColor=white">
 
@@ -43,6 +42,7 @@
 
 #### :computer: OS :computer:
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Rocky%20Linux-ffffff?style=for-the-badge&logo=RockyLinux&logoColor=07ba82">
 
  <br/>
  <br/>
