@@ -49,4 +49,5 @@
   
 ![yongseopK's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongseopK&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongseopK&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongseop01)](https://solved.ac/yongseop01/)
 </div>
