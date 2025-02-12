@@ -15,9 +15,8 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB340?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-012052?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white"> 
-<img src="https://img.shields.io/badge/Aws-FF9B00?style=for-the-badge&logo=Amazon&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-4287f5?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 
 
@@ -30,8 +29,8 @@
 #### :toolbox: DEV TOOLS :toolbox:
 
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-2C2255?style=for-the-badge&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
 
 
