@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=seopHUB&color=FA243C&fontColor=fff)
   
 ####  :sunny: Welcome to my profile! :sunny:
-<img src="https://cdn.pixabay.com/animation/2022/08/03/02/06/02-06-05-563_512.gif" width="30%" height="30%">
-  
  <br/>
  <br/>
  
